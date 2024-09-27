@@ -9,5 +9,4 @@ app.listen(8080, () => {
     console.log("App is listening at port 8080");
 });
 
-
 //movies
