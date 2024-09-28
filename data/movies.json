@@ -1,0 +1,83 @@
+[
+    {
+      "movieId": "1",
+      "movieName": "The Dark Knight",
+      "genre": "action",
+      "favorite": "true",
+      "rating": 10,
+      "moviePoster": "",
+      "moviePlot": "The Dark Knight reunites Christian Bale with director Christopher Nolan and takes Batman across the world in his quest to fight a growing criminal threat known as The Joker "
+    },
+    {
+      "movieId": "2",
+      "movieName": "Inception",
+      "genre": "action",
+      "favorite": "true",
+      "rating": 8.8,
+      "moviePoster": "",
+      "moviePlot": "A thief enters people's dreams and steals their secrets."
+    },
+    {
+      "movieId": "4",
+      "movieName": "Joker",
+      "genre": "suspense",
+      "favorite": "true",
+      "rating": 8.4,
+      "moviePoster": "",
+      "moviePlot": "“Joker” is an original, standalone story. Arthur Fleck (Joaquin Phoenix), a man disregarded by society, is not only a gritty character study, but also a broader cautionary tale."
+    },
+    {
+      "movieId": "5",
+      "movieName": "Transformers",
+      "genre": "science fiction",
+      "favorite": "true",
+      "rating": 7,
+      "moviePoster": "",
+      "moviePlot": "Dueling alien races, the Autobots and the Decepticons, bring their battle to Earth, leaving the future of humankind hanging in the balance."
+    },
+    {
+      "movieId": "6",
+      "movieName": "Batman Begins",
+      "genre": "drama",
+      "favorite": "true",
+      "rating": 8.8,
+      "moviePoster": "",
+      "moviePlot": "Filled with dark drama, sci-fi intrigue, high-tech glitz and fast-moving thrills, this BATMAN prequel explains the creation of our hero from privileged childhood, to martial arts training in Asia and return to Gotham City. There he must sort the water system which has been tainted with a hallucinatory substance."
+    },
+    {
+      "movieId": "7",
+      "movieName": "Interstellar",
+      "genre": "science fiction",
+      "favorite": "true",
+      "rating": 8.7,
+      "moviePoster": "",
+      "moviePlot": "A team of explorers travel beyond this galaxy through a newly discovered wormhole to discover whether mankind has a future among the stars."
+    },
+    {
+      "movieId": "8",
+      "movieName": "The Truman Show",
+      "genre": "comedy",
+      "favorite": "true",
+      "rating": 8.5,
+      "moviePoster": "",
+      "moviePlot": "Truman doesn’t realize that his quaint hometown is a giant studio set run by a visionary producer/director/creator (Ed Harris), that folks living and working there are Hollywood actors, that even his incessantly bubbly wife is a contract player."
+    },
+    {
+      "movieId": "9",
+      "movieName": "INTO THE WILD",
+      "genre": "drama",
+      "favorite": "true",
+      "rating": 8.1,
+      "moviePoster": "",
+      "moviePlot": "After graduating from Emory University in 1992, top student and athlete Christopher McCandless abandons his possessions, gave his entire $24,000 savings account to charity and hitchhiked to Alaska to live in the wilderness."
+    },
+    {
+      "movieId": "10",
+      "movieName": "Good Will Hunting",
+      "genre": "drama",
+      "favorite": "true",
+      "rating": 8.3,
+      "moviePoster": "",
+      "moviePlot": "A troubled young genius finds his allegiance to his friends challenged by new opportunities."
+    }
+  ]
