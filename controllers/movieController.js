@@ -1,8 +1,9 @@
 const { getAllMovies } = require("../services/movieServices");
 
-const getAllMoviesController = () => {
+const getAllMoviesController = (req,res) => {
     console.log("inside controller");
-    getAllMovies();
+    const response = getAllMovies();
+    res.send(response);
 };
 
 module.exports = { getAllMoviesController};
